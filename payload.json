@@ -1,0 +1,7 @@
+{
+  "body": "{\"license\": \"1234\",\"company\", \"2\"}",
+  "httpMethod": "POST",
+  "headers": {
+      "Content-Type": "application/json"
+  }
+}
